@@ -1,0 +1,17 @@
+C:\Users\a0s04cg\IdeaProjects\DoctorBot\src\main\java\com\silverlining\model\Diseases.java
+C:\Users\a0s04cg\IdeaProjects\DoctorBot\src\main\java\com\silverlining\DoctorBotApplication.java
+C:\Users\a0s04cg\IdeaProjects\DoctorBot\src\main\java\com\silverlining\model\User.java
+C:\Users\a0s04cg\IdeaProjects\DoctorBot\src\main\java\com\silverlining\service\DoctorBotService.java
+C:\Users\a0s04cg\IdeaProjects\DoctorBot\src\main\java\com\silverlining\model\ProbableDisease.java
+C:\Users\a0s04cg\IdeaProjects\DoctorBot\src\main\java\com\silverlining\model\ProbableDiseases.java
+C:\Users\a0s04cg\IdeaProjects\DoctorBot\src\main\java\com\silverlining\model\SelectedExtraSymptoms.java
+C:\Users\a0s04cg\IdeaProjects\DoctorBot\src\main\java\com\silverlining\model\SelectedSymptoms.java
+C:\Users\a0s04cg\IdeaProjects\DoctorBot\src\main\java\com\silverlining\model\ReportSummaryRequest.java
+C:\Users\a0s04cg\IdeaProjects\DoctorBot\src\main\java\com\silverlining\model\DiseaseSummary.java
+C:\Users\a0s04cg\IdeaProjects\DoctorBot\src\main\java\com\silverlining\model\Symptoms.java
+C:\Users\a0s04cg\IdeaProjects\DoctorBot\src\main\java\com\silverlining\model\Medicine.java
+C:\Users\a0s04cg\IdeaProjects\DoctorBot\src\main\java\com\silverlining\model\Report.java
+C:\Users\a0s04cg\IdeaProjects\DoctorBot\src\main\java\com\silverlining\repository\SymptomsRepository.java
+C:\Users\a0s04cg\IdeaProjects\DoctorBot\src\main\java\com\silverlining\repository\DiseasesRepository.java
+C:\Users\a0s04cg\IdeaProjects\DoctorBot\src\main\java\com\silverlining\repository\UsersRepository.java
+C:\Users\a0s04cg\IdeaProjects\DoctorBot\src\main\java\com\silverlining\controller\DoctorBotController.java
